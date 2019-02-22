@@ -11,49 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Software Engineering, University of Waterloo, Canada, (2018 - now)
+* M.S. in Evolutionary and Adaptive System (EASy), University of Sussex, UK, (2008 - 2009)
+* B.S. in Computing, Imperial College, UK, (2004 - 2007)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant (2018 - now)
+  * University of Waterloo, Canada
+  * Develop testing techniques for Deep-learning libraries
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Assistant (2014 - 2017)
+  * Utah State University, USA
+  * Develop defect prediction techniques and source code embeddings 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Web app developer (2011 - 2014)
+  * Sonic Viet, Vietnam
+  * Lead a team of 8 developers, Architecure Design
+
+* Lecturer (2011 - 2014)
+  * Postal and Telecommunication Institute of Technology, Vietnam
+  * Teach Introduction to AI and Image Processing courses
+
+* Java developer (2009 - 2011)
+  * Calypso Technology, UK
+  * Teach Introduction to AI and Image Processing courses
   
-Talks
+Teaching Assistant
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* CS251 (Winter 2019)
+* CS245 (Spring 2018)
+* CS115 (Winter 2018, Fall 2018)
