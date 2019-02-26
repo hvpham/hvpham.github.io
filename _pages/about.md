@@ -44,23 +44,23 @@ Hung Viet Pham , Tu Minh Phuong (KSE 15)
 
 Work experience
 ======
-* Research Assistant (2018 - now)
+* __Research Assistant__ (2018 - now)
   * University of Waterloo, Canada
   * Develop testing techniques for Deep-learning libraries
 
-* Research Assistant (2014 - 2017)
+* __Research Assistant__ (2014 - 2017)
   * Utah State University, USA
   * Develop defect prediction techniques and source code embeddings 
 
-* Web app developer (2011 - 2014)
+* __Web app developer__ (2011 - 2014)
   * Sonic Viet, Vietnam
   * Lead a team of 8 developers, Architecure Design
 
-* Lecturer (2011 - 2014)
+* __Lecturer__ (2011 - 2014)
   * Postal and Telecommunication Institute of Technology, Vietnam
   * Teach Introduction to AI and Image Processing courses
 
-* Java developer (2009 - 2011)
+* __Java developer__ (2009 - 2011)
   * Calypso Technology, UK
   * Teach Introduction to AI and Image Processing courses
   
@@ -72,6 +72,6 @@ Teaching Assistant
 
 Education
 ======
-* Ph.D in Software Engineering, University of Waterloo, Canada, (2018 - now)
-* M.S. in Evolutionary and Adaptive System (EASy), University of Sussex, UK, (2008 - 2009)
-* B.S. in Computing, Imperial College, UK, (2004 - 2007)
+* __Ph.D in Software Engineering__, University of Waterloo, Canada, (2018 - now)
+* __M.S. in Evolutionary and Adaptive System (EASy)__, University of Sussex, UK, (2008 - 2009)
+* __B.S. in Computing__, Imperial College, UK, (2004 - 2007)
