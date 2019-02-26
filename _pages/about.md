@@ -12,34 +12,34 @@ I am a Ph.D. student working with Prof. [Lin Tan](https://ece.uwaterloo.ca/~lint
 
 Publications
 ======
-* CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries - 
+* __CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries__ - 
 Viet Hung Pham, Thibaud Lutellier, Weizhen Qi, Lin Tan (ICSE 19)
 
-* Recommending Exception Handling Patterns with ExAssist -
+* __Recommending Exception Handling Patterns with ExAssist__ -
 Tam The Nguyen, Phong Minh Vu, Hung Viet Pham, Tung Thanh Nguyen (Poster, ICSE 18)
 
-* Alpaca-advanced linguistic pattern and concept analysis framework for software engineering corpora - 
+* __Alpaca-advanced linguistic pattern and concept analysis framework for software engineering corpora__ - 
 Phong Minh Vu, Tam The Nguyen, Hung Viet Pham, Tung Thanh Nguyen (Poster, ICSE 18)
 
-* Designing Technology as a Cultural Broker for Young Children: Challenges and Opportunities - 
+* __Designing Technology as a Cultural Broker for Young Children: Challenges and Opportunities__ - 
 Yanghee Kim, Sherry Marx, Hung Viet Pham, Tung Thanh Nguyen (ISLS 18)
 
-* Improving the quality of Clone Detection with Conceptual Similarity of Source code - 
+* __Improving the quality of Clone Detection with Conceptual Similarity of Source code__ - 
 Hung Viet Pham, Tam The Nguyen, Phong Minh Vu, Tung Thanh Nguyen (NL4SE, AAI 18)
 
-* Learning API usages from bytecode: a statistical approach - 
+* __Learning API usages from bytecode: a statistical approach__ - 
 Tam The Nguyen, Hung Viet Pham, Phong Minh Vu, Tung Thanh Nguyen (ICSE 16)
 
-* Tool support for analyzing mobile app reviews - 
+* __Tool support for analyzing mobile app reviews__ - 
 Phong Minh Vu, Hung Viet Pham, Tam The Nguyen, Tung Thanh Nguyen (Tool Demo, ASE 15)
 
-* Recommending API usages for mobile apps with hidden markov model - 
+* __Recommending API usages for mobile apps with hidden markov model__ - 
 Tam The Nguyen, Hung Viet Pham, Phong Minh Vu, Tung Thanh Nguyen (Tool Demo, ASE 15)
 
-* Mining user opinions in mobile app reviews: A keyword-based approach - 
+* __Mining user opinions in mobile app reviews: A keyword-based approach__ - 
 Phong Minh Vu, Tam The Nguyen, Hung Viet Pham, Tung Thanh Nguyen (ASE 15)
 
-* Discriminative Prediction of Enhancers with Word Combinations as Features - 
+* __Discriminative Prediction of Enhancers with Word Combinations as Features__ - 
 Hung Viet Pham , Tu Minh Phuong (KSE 15)
 
 Work experience
