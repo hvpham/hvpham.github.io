@@ -12,35 +12,35 @@ I am a Ph.D. student working with Prof. [Lin Tan](https://ece.uwaterloo.ca/~lint
 
 Publications
 ======
-* CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries (ICSE 19)
-Viet Hung Pham, Thibaud Lutellier, Weizhen Qi, Lin Tan
+* CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries - 
+Viet Hung Pham, Thibaud Lutellier, Weizhen Qi, Lin Tan (ICSE 19)
 
-* Recommending Exception Handling Patterns with ExAssist (Poster, ICSE 18)
-Tam The Nguyen, Phong Minh Vu, Hung Viet Pham, Tung Thanh Nguyen
+* Recommending Exception Handling Patterns with ExAssist -
+Tam The Nguyen, Phong Minh Vu, Hung Viet Pham, Tung Thanh Nguyen (Poster, ICSE 18)
 
-* Alpaca-advanced linguistic pattern and concept analysis framework for software engineering corpora (Poster, ICSE 18)
-Phong Minh Vu, Tam The Nguyen, Hung Viet Pham, Tung Thanh Nguyen
+* Alpaca-advanced linguistic pattern and concept analysis framework for software engineering corpora - 
+Phong Minh Vu, Tam The Nguyen, Hung Viet Pham, Tung Thanh Nguyen (Poster, ICSE 18)
 
-* Designing Technology as a Cultural Broker for Young Children: Challenges and Opportunities (ISLS 18)
-Yanghee Kim, Sherry Marx, Hung Viet Pham, Tung Thanh Nguyen
+* Designing Technology as a Cultural Broker for Young Children: Challenges and Opportunities - 
+Yanghee Kim, Sherry Marx, Hung Viet Pham, Tung Thanh Nguyen (ISLS 18)
 
-* Improving the quality of Clone Detection with Conceptual Similarity of Source code (NL4SE, AAI 18)
-Hung Viet Pham, Tam The Nguyen, Phong Minh Vu, Tung Thanh Nguyen
+* Improving the quality of Clone Detection with Conceptual Similarity of Source code - 
+Hung Viet Pham, Tam The Nguyen, Phong Minh Vu, Tung Thanh Nguyen (NL4SE, AAI 18)
 
-* Learning API usages from bytecode: a statistical approach(ICSE 16)
-Tam The Nguyen, Hung Viet Pham, Phong Minh Vu, Tung Thanh Nguyen
+* Learning API usages from bytecode: a statistical approach - 
+Tam The Nguyen, Hung Viet Pham, Phong Minh Vu, Tung Thanh Nguyen (ICSE 16)
 
-* Tool support for analyzing mobile app reviews (Tool Demo, ASE 15)
-Phong Minh Vu, Hung Viet Pham, Tam The Nguyen, Tung Thanh Nguyen
+* Tool support for analyzing mobile app reviews - 
+Phong Minh Vu, Hung Viet Pham, Tam The Nguyen, Tung Thanh Nguyen (Tool Demo, ASE 15)
 
-* Recommending API usages for mobile apps with hidden markov model (Tool Demo, ASE 15)
-Tam The Nguyen, Hung Viet Pham, Phong Minh Vu, Tung Thanh Nguyen
+* Recommending API usages for mobile apps with hidden markov model - 
+Tam The Nguyen, Hung Viet Pham, Phong Minh Vu, Tung Thanh Nguyen (Tool Demo, ASE 15)
 
-* Mining user opinions in mobile app reviews: A keyword-based approach (ASE 15)
-Phong Minh Vu, Tam The Nguyen, Hung Viet Pham, Tung Thanh Nguyen
+* Mining user opinions in mobile app reviews: A keyword-based approach - 
+Phong Minh Vu, Tam The Nguyen, Hung Viet Pham, Tung Thanh Nguyen (ASE 15)
 
-* Discriminative Prediction of Enhancers with Word Combinations as Features (KSE 15)
-Hung Viet Pham , Tu Minh Phuong
+* Discriminative Prediction of Enhancers with Word Combinations as Features - 
+Hung Viet Pham , Tu Minh Phuong (KSE 15)
 
 Work experience
 ======
