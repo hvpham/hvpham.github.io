@@ -8,38 +8,38 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student working with Prof. [Lin Tan](https://ece.uwaterloo.ca/~lintan/) in the Department of Electrical and Computer Engineering at University of Waterloo. My research interests include software testing, program repair, software engineering, and machine learning.
+I am a Ph.D. student working with [Prof. Lin Tan](https://www.cs.purdue.edu/homes/lintan/) in the Department of Electrical and Computer Engineering at University of Waterloo. My research interests include software testing, program repair, software engineering, and machine learning.
 
 Publications
 ======
-* _CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries_ - 
+_CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries_ - 
 **_Hung Viet Pham_**, Thibaud Lutellier, Weizhen Qi, Lin Tan (__ICSE-19__)
 
-* _Recommending Exception Handling Patterns with ExAssist_ -
+_Recommending Exception Handling Patterns with ExAssist_ -
 Tam The Nguyen, Phong Minh Vu, **_Hung Viet Pham_**, Tung Thanh Nguyen (Poster, __ICSE-18__)
 
-* _Alpaca-advanced linguistic pattern and concept analysis framework for software engineering corpora_ - 
+_Alpaca-advanced linguistic pattern and concept analysis framework for software engineering corpora_ - 
 Phong Minh Vu, Tam The Nguyen, **_Hung Viet Pham_**, Tung Thanh Nguyen (Poster, __ICSE-18__)
 
-* _Designing Technology as a Cultural Broker for Young Children: Challenges and Opportunities_ - 
+_Designing Technology as a Cultural Broker for Young Children: Challenges and Opportunities_ - 
 Yanghee Kim, Sherry Marx, **_Hung Viet Pham_**, Tung Thanh Nguyen (__ISLS-18__)
 
-* _Improving the quality of Clone Detection with Conceptual Similarity of Source code_ - 
+_Improving the quality of Clone Detection with Conceptual Similarity of Source code_ - 
 **_Hung Viet Pham_**, Tam The Nguyen, Phong Minh Vu, Tung Thanh Nguyen (NL4SE, __AAAI-18__)
 
-* _Learning API usages from bytecode: a statistical approach_ - 
+_Learning API usages from bytecode: a statistical approach_ - 
 Tam The Nguyen, **_Hung Viet Pham_**, Phong Minh Vu, Tung Thanh Nguyen (__ICSE-16__)
 
-* _Tool support for analyzing mobile app reviews_ - 
+_Tool support for analyzing mobile app reviews_ - 
 Phong Minh Vu, **_Hung Viet Pham_**, Tam The Nguyen, Tung Thanh Nguyen (Tool Demo, __ASE-15__)
 
-* _Recommending API usages for mobile apps with hidden markov model_ - 
+_Recommending API usages for mobile apps with hidden markov model_ - 
 Tam The Nguyen, **_Hung Viet Pham_**, Phong Minh Vu, Tung Thanh Nguyen (Tool Demo, __ASE-15__)
 
-* _Mining user opinions in mobile app reviews: A keyword-based approach_ - 
+_Mining user opinions in mobile app reviews: A keyword-based approach_ - 
 Phong Minh Vu, Tam The Nguyen, **_Hung Viet Pham_**, Tung Thanh Nguyen (__ASE-15__)
 
-* _Discriminative Prediction of Enhancers with Word Combinations as Features_ - 
+_Discriminative Prediction of Enhancers with Word Combinations as Features_ - 
 **_Hung Viet Pham_** , Tu Minh Phuong (__KSE-15__)
 
 Work experience
