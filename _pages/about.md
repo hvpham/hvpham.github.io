@@ -13,34 +13,34 @@ I am a Ph.D. student working with Prof. [Lin Tan](https://ece.uwaterloo.ca/~lint
 Publications
 ======
 * _CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries_ - 
-**_Viet Hung Pham_**, Thibaud Lutellier, Weizhen Qi, Lin Tan (ICSE 19)
+**_Viet Hung Pham_**, Thibaud Lutellier, Weizhen Qi, Lin Tan (ICSE-19)
 
-* _Recommending Exception Handling Patterns with ExAssist_-
-Tam The Nguyen, Phong Minh Vu, **_Hung Viet Pham_**, Tung Thanh Nguyen (Poster, ICSE 18)
+* _Recommending Exception Handling Patterns with ExAssist_ -
+Tam The Nguyen, Phong Minh Vu, **_Hung Viet Pham_**, Tung Thanh Nguyen (Poster, ICSE-18)
 
 * _Alpaca-advanced linguistic pattern and concept analysis framework for software engineering corpora_ - 
-Phong Minh Vu, Tam The Nguyen, **_Hung Viet Pham_**, Tung Thanh Nguyen (Poster, ICSE 18)
+Phong Minh Vu, Tam The Nguyen, **_Hung Viet Pham_**, Tung Thanh Nguyen (Poster, ICSE-18)
 
 * _Designing Technology as a Cultural Broker for Young Children: Challenges and Opportunities_ - 
-Yanghee Kim, Sherry Marx, **_Hung Viet Pham_**, Tung Thanh Nguyen (ISLS 18)
+Yanghee Kim, Sherry Marx, **_Hung Viet Pham_**, Tung Thanh Nguyen (ISLS-18)
 
 * _Improving the quality of Clone Detection with Conceptual Similarity of Source code_ - 
-**_Hung Viet Pham_**, Tam The Nguyen, Phong Minh Vu, Tung Thanh Nguyen (NL4SE, AAI 18)
+**_Hung Viet Pham_**, Tam The Nguyen, Phong Minh Vu, Tung Thanh Nguyen (NL4SE, AAAI-18)
 
 * _Learning API usages from bytecode: a statistical approach_ - 
-Tam The Nguyen, **_Hung Viet Pham_**, Phong Minh Vu, Tung Thanh Nguyen (ICSE 16)
+Tam The Nguyen, **_Hung Viet Pham_**, Phong Minh Vu, Tung Thanh Nguyen (ICSE-16)
 
 * _Tool support for analyzing mobile app reviews_ - 
-Phong Minh Vu, **_Hung Viet Pham_**, Tam The Nguyen, Tung Thanh Nguyen (Tool Demo, ASE 15)
+Phong Minh Vu, **_Hung Viet Pham_**, Tam The Nguyen, Tung Thanh Nguyen (Tool Demo, ASE-15)
 
 * _Recommending API usages for mobile apps with hidden markov model_ - 
-Tam The Nguyen, **_Hung Viet Pham_**, Phong Minh Vu, Tung Thanh Nguyen (Tool Demo, ASE 15)
+Tam The Nguyen, **_Hung Viet Pham_**, Phong Minh Vu, Tung Thanh Nguyen (Tool Demo, ASE-15)
 
 * _Mining user opinions in mobile app reviews: A keyword-based approach_ - 
-Phong Minh Vu, Tam The Nguyen, **_Hung Viet Pham_**, Tung Thanh Nguyen (ASE 15)
+Phong Minh Vu, Tam The Nguyen, **_Hung Viet Pham_**, Tung Thanh Nguyen (ASE-15)
 
 * _Discriminative Prediction of Enhancers with Word Combinations as Features_ - 
-**_Hung Viet Pham_** , Tu Minh Phuong (KSE 15)
+**_Hung Viet Pham_** , Tu Minh Phuong (KSE-15)
 
 Work experience
 ======
