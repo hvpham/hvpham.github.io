@@ -13,34 +13,34 @@ I am a Ph.D. student working with Prof. [Lin Tan](https://ece.uwaterloo.ca/~lint
 Publications
 ======
 * CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries (ICSE 19)
-  * Viet Hung Pham, Thibaud Lutellier, Weizhen Qi, Lin Tan
+Viet Hung Pham, Thibaud Lutellier, Weizhen Qi, Lin Tan
 
 * Recommending Exception Handling Patterns with ExAssist (Poster, ICSE 18)
-  * Tam The Nguyen, Phong Minh Vu, Hung Viet Pham, Tung Thanh Nguyen
+Tam The Nguyen, Phong Minh Vu, Hung Viet Pham, Tung Thanh Nguyen
 
 * Alpaca-advanced linguistic pattern and concept analysis framework for software engineering corpora (Poster, ICSE 18)
-  * Phong Minh Vu, Tam The Nguyen, Hung Viet Pham, Tung Thanh Nguyen
+Phong Minh Vu, Tam The Nguyen, Hung Viet Pham, Tung Thanh Nguyen
 
 * Designing Technology as a Cultural Broker for Young Children: Challenges and Opportunities (ISLS 18)
-  * Yanghee Kim, Sherry Marx, Hung Viet Pham, Tung Thanh Nguyen
+Yanghee Kim, Sherry Marx, Hung Viet Pham, Tung Thanh Nguyen
 
 * Improving the quality of Clone Detection with Conceptual Similarity of Source code (NL4SE, AAI 18)
-  * Hung Viet Pham, Tam The Nguyen, Phong Minh Vu, Tung Thanh Nguyen
+Hung Viet Pham, Tam The Nguyen, Phong Minh Vu, Tung Thanh Nguyen
 
 * Learning API usages from bytecode: a statistical approach(ICSE 16)
-  * Tam The Nguyen, Hung Viet Pham, Phong Minh Vu, Tung Thanh Nguyen
+Tam The Nguyen, Hung Viet Pham, Phong Minh Vu, Tung Thanh Nguyen
 
 * Tool support for analyzing mobile app reviews (Tool Demo, ASE 15)
-  * Phong Minh Vu, Hung Viet Pham, Tam The Nguyen, Tung Thanh Nguyen
+Phong Minh Vu, Hung Viet Pham, Tam The Nguyen, Tung Thanh Nguyen
 
 * Recommending API usages for mobile apps with hidden markov model (Tool Demo, ASE 15)
-  * Tam The Nguyen, Hung Viet Pham, Phong Minh Vu, Tung Thanh Nguyen
+Tam The Nguyen, Hung Viet Pham, Phong Minh Vu, Tung Thanh Nguyen
 
 * Mining user opinions in mobile app reviews: A keyword-based approach (ASE 15)
-  * Phong Minh Vu, Tam The Nguyen, Hung Viet Pham, Tung Thanh Nguyen
+Phong Minh Vu, Tam The Nguyen, Hung Viet Pham, Tung Thanh Nguyen
 
 * Discriminative Prediction of Enhancers with Word Combinations as Features (KSE 15)
-  * Hung Viet Pham , Tu Minh Phuong
+Hung Viet Pham , Tu Minh Phuong
 
 Work experience
 ======
