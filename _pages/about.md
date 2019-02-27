@@ -12,33 +12,33 @@ I am a Ph.D. student working with [Prof. Lin Tan](https://www.cs.purdue.edu/home
 
 Publications
 ======
-[__ICSE-19__](https://conf.researchr.org/home/icse-2019) [_CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries_](https://hvpham.github.io/files/CRADLE-icse19.pdf)\
+[__ICSE-19__](https://conf.researchr.org/home/icse-2019) [_CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries_](https://hvpham.github.io/files/CRADLE-icse19.pdf)<br/>
 **_Hung Viet Pham_**, Thibaud Lutellier, Weizhen Qi, Lin Tan
 
-[__ICSE-18__](https://www.icse2018.org/)(Poster) [_Recommending Exception Handling Patterns with ExAssist_](https://hvpham.github.io/files/ExAssist-icse18.pdf)\
+[__ICSE-18__](https://www.icse2018.org/)(Poster) [_Recommending Exception Handling Patterns with ExAssist_](https://hvpham.github.io/files/ExAssist-icse18.pdf)<br/>
 Tam The Nguyen, Phong Minh Vu, **_Hung Viet Pham_**, Tung Thanh Nguyen
 
-[__ICSE-18__](https://www.icse2018.org/)(Poster) [_Alpaca-advanced linguistic pattern and concept analysis framework for software engineering corpora_](https://hvpham.github.io/files/Alpaca-icse18.pdf)\
+[__ICSE-18__](https://www.icse2018.org/)(Poster) [_Alpaca-advanced linguistic pattern and concept analysis framework for software engineering corpora_](https://hvpham.github.io/files/Alpaca-icse18.pdf)<br/>
 Phong Minh Vu, Tam The Nguyen, **_Hung Viet Pham_**, Tung Thanh Nguyen
 
-[__ISLS-18__](https://www.isls.org/) _Designing Technology as a Cultural Broker for Young Children: Challenges and Opportunities_\
+[__ISLS-18__](https://www.isls.org/) _Designing Technology as a Cultural Broker for Young Children: Challenges and Opportunities_<br/>
 Yanghee Kim, Sherry Marx, **_Hung Viet Pham_**, Tung Thanh Nguyen
 
 [__AAAI-18__](https://nl4se.github.io/)(NL4SE)     **_Hung Viet Pham_**, Tam The Nguyen, Phong Minh Vu, Tung Thanh Nguyen - [_Improving the quality of Clone Detection with Conceptual Similarity of Source code_](https://hvpham.github.io/files/Clone-NL4SE.pdf)
 
-[__ICSE-16__](http://2016.icse.cs.txstate.edu/) [_Learning API usages from bytecode: a statistical approach_](https://hvpham.github.io/files/SALAD-icse16.pdf)\
+[__ICSE-16__](http://2016.icse.cs.txstate.edu/) [_Learning API usages from bytecode: a statistical approach_](https://hvpham.github.io/files/SALAD-icse16.pdf)<br/>
 Tam The Nguyen, **_Hung Viet Pham_**, Phong Minh Vu, Tung Thanh Nguyen
 
-[__ASE-15__](https://ase2015.unl.edu/#tab-main) [_Mining user opinions in mobile app reviews: A keyword-based approach_](https://hvpham.github.io/files/MARK-ase15.pdf)\
+[__ASE-15__](https://ase2015.unl.edu/#tab-main) [_Mining user opinions in mobile app reviews: A keyword-based approach_](https://hvpham.github.io/files/MARK-ase15.pdf)<br/>
 Phong Minh Vu, Tam The Nguyen, **_Hung Viet Pham_**, Tung Thanh Nguyen 
 
-[__ASE-15__](https://ase2015.unl.edu/#tab-main)(Demo) [_Tool support for analyzing mobile app reviews_](https://hvpham.github.io/files/ToolApp-ase15.pdf)\
+[__ASE-15__](https://ase2015.unl.edu/#tab-main)(Demo) [_Tool support for analyzing mobile app reviews_](https://hvpham.github.io/files/ToolApp-ase15.pdf)<br/>
 Phong Minh Vu, **_Hung Viet Pham_**, Tam The Nguyen, Tung Thanh Nguyen
 
-[__ASE-15__](https://ase2015.unl.edu/#tab-main)(Demo) [_Recommending API usages for mobile apps with hidden markov model_](https://hvpham.github.io/files/ToolAPI-ase15.pdf)\
+[__ASE-15__](https://ase2015.unl.edu/#tab-main)(Demo) [_Recommending API usages for mobile apps with hidden markov model_](https://hvpham.github.io/files/ToolAPI-ase15.pdf)<br/>
 Tam The Nguyen, **_Hung Viet Pham_**, Phong Minh Vu, Tung Thanh Nguyen
 
-[__KSE-15__](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7371541) [_Discriminative Prediction of Enhancers with Word Combinations as Features_](https://hvpham.github.io/files/Enhancer-kse15.pdf)\
+[__KSE-15__](https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=7371541) [_Discriminative Prediction of Enhancers with Word Combinations as Features_](https://hvpham.github.io/files/Enhancer-kse15.pdf)<br/>
 **_Hung Viet Pham_** , Tu Minh Phuong
 
 Work experience
