@@ -5,7 +5,7 @@ permalink: /publication/2019-ICSE-CRADLE
 excerpt: 'We propose CRADLE, a new approach that focuses on finding and localizing bugs in DL software libraries.'
 date: 2019-05-25
 venue: 'ICSE'
-paperurl: 'https://cs.uwaterloo.ca/~hvpham/CRADLE-icse19.pdf'
+paperurl: 'https://hvpham.github.io/files/CRADLE-icse19.pdf'
 paperurlname: 'PDF'
 citation: 'Hung Viet Pham, Thibaud Lutellier, Weizhen Qi, Lin Tan. (2019). &quot;CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries.&quot; <i>ICSE</i>.'
 ---
