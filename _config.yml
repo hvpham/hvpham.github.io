@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hung Viet Pham"
-  avatar           : "profile.png"
+  avatar           : "Hung-photo.jpg"
   bio              : "Ph.D. student at University of Waterloo, interested in Software Engineering and Machine Learning"
   location         : "Waterloo, Canada"
   employer         :
@@ -89,7 +89,7 @@ author:
   email            : "hvpham@uwaterloo.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  bitbucket        : "https://bitbucket.org/hvpham/"
+  bitbucket        : "hvpham"
   codepen          :
   dribbble         :
   flickr           :
