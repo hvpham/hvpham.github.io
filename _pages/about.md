@@ -12,6 +12,14 @@ I am a Ph.D. student working with [Prof. Lin Tan](https://www.cs.purdue.edu/home
 
 Publications
 ======
+[__ASE-20__](https://conf.researchr.org/home/ase-2020)<br/>
+[_Problems and opportunities in training deep learning software systems: an analysis of variance_](https://hvpham.github.io/files/Variance-ase20.pdf)<br/>
+**_Hung Viet Pham_**, Shangshu Qian, Jiannan Wang, Thibaud Lutellier, Jonathan Rosenthal, Lin Tan, Yaoliang Yu, Nachiappan Nagappan
+
+[__ISSTA-20__](https://conf.researchr.org/home/issta-2021)<br/>
+[_CoCoNuT: combining context-aware neural translation models using ensemble for program repair_](https://hvpham.github.io/files/CoCoNuT-issta20.pdf)<br/>
+Thibaud Lutellier, **_Hung Viet Pham_**, Lawrence Pang, Yitong Li, Moshi Wei, Lin Tan
+
 [__ICSE-19__](https://conf.researchr.org/home/icse-2019)<br/>
 [_CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries_](https://hvpham.github.io/files/CRADLE-icse19.pdf)<br/>
 **_Hung Viet Pham_**, Thibaud Lutellier, Weizhen Qi, Lin Tan

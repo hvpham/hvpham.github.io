@@ -39,6 +39,6 @@ Work experience
   
 Teaching Assistant
 ======
-* CS251 (Winter 2019)
+* CS251 (Winter 2019, Spring 2019)
 * CS245 (Spring 2018)
 * CS115 (Winter 2018, Fall 2018)
