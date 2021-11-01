@@ -14,11 +14,15 @@ Publications
 ======
   
 [__NeurIPS-21__](https://nips.cc/Conferences/2021)<br/>
-[_Are My Deep Learning Systems Fair? An Empirical Study of Fixed-Seed Training_](https://hvpham.github.io/files/VarianceTool-ase21.pdf)<br/>
+[_Are My Deep Learning Systems Fair? An Empirical Study of Fixed-Seed Training_](https://hvpham.github.io/files/VarianceFairness-NIPS21.pdf)<br/>
 Shangshu Qian, **_Hung Viet Pham_**, Thibaud Lutellier, Zeou Hu, Jungwon Kim, Lin Tan, Yaoliang Yu, Jiahao Chen, and Sameena Shah
 
-[__ASE-21__](https://conf.researchr.org/home/ase-2021)<br/>
-[_DEVIATE: A Deep Learning Variance Testing Framework_](https://hvpham.github.io/files/VarianceFairness-NIPS21.pdf)<br/>
+[__ETR&D-21(Jornal)__](https://www.springer.com/journal/11423)<br/>
+[_Designing for robot-mediated interaction among culturally and linguistically diverse children_](https://hvpham.github.io/files/EduRobot-ETRD21.pdf)<br/>
+Yanghee Kim, Sherry Marx, **_Hung Viet Pham_**, Tung T. Nguyen
+
+[__ASE-21(Tool)__](https://conf.researchr.org/home/ase-2021)<br/>
+[_DEVIATE: A Deep Learning Variance Testing Framework_](https://hvpham.github.io/files/VarianceTool-ase21.pdf)<br/>
 **_Hung Viet Pham_**, Mijung Kim, Lin Tan, Yaoliang Yu, and Nachiappan Nagappan
 
 [__ASE-20__](https://conf.researchr.org/home/ase-2020)<br/>
