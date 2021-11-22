@@ -73,45 +73,38 @@ Tam The Nguyen, **_Hung Viet Pham_**, Phong Minh Vu, Tung Thanh Nguyen
 [_Discriminative Prediction of Enhancers with Word Combinations as Features_](https://hvpham.github.io/files/Enhancer-kse15.pdf)<br/>
 **_Hung Viet Pham_** , Tu Minh Phuong
 
-Research experience
-======
-* __Research Assistant__ (2018 - now)
-  * University of Waterloo, Canada
-  * Develop testing techniques for Deep-learning libraries
-
-* __Research Assistant__ (2014 - 2017)
-  * Utah State University, USA
-  * Develop defect prediction techniques and source code embeddings 
-
-Work experience
-======
-* __Web app developer__ (2011 - 2014)
-  * Sonic Viet, Vietnam
-  * Lead a team of 8 developers, Architecure Design
-
-* __Lecturer__ (2011 - 2014)
-  * Postal and Telecommunication Institute of Technology, Vietnam
-  * Teach Introduction to AI and Image Processing courses
-
-* __Java developer__ (2009 - 2011)
-  * Calypso Technology, UK
-  * Work as a Java developer in a team working on products that optimize investment portfolios using generic algorithms
-
-Teaching experience
-======
-* __Teaching Assistant, Instructional Apprentice__ (2018 - now)
-  * University of Waterloo, Canada
-  * CS115: Introduction to Computer Science 1 (Winter 2018, Fall 2018, Fall 2019)
-  * CS135: Designing Functional Programs (Fall 2020)
-  * CS245: Logic and Computation (Spring 2018)
-  * CS251: Computer Organization and Design (Winter 2019, Spring 2019)
-
-* __Teaching Assistant__ (2014 - 2017)
-  * Utah State Univeristy, Logan, UT, USA
-  * CS 5050: Advanced Algorithms (Fall 2016)
-
 Education
 ======
 * __Ph.D in Software Engineering__, University of Waterloo, Canada, (2018 - now)
 * __M.S. in Evolutionary and Adaptive System (EASy)__, University of Sussex, UK, (2008 - 2009)
 * __B.S. in Computing__, Imperial College, UK, (2004 - 2007)
+
+Research experience
+======
+* __Research Assistant at University of Waterloo, Waterloo, Canada__ (2018 - now)
+  * Develop testing techniques for Deep-learning libraries
+
+* __Research Assistant at Utah State University, Logan, UT, USA__ (2014 - 2017)
+  * Develop defect prediction techniques and source code embeddings 
+
+Teaching experience
+======
+* __Teaching Assistant, Instructional Apprentice at University of Waterloo, Waterloo, Canada__ (2018 - now)
+  * CS115: Introduction to Computer Science 1 (Winter 2018, Fall 2018, Fall 2019)
+  * CS135: Designing Functional Programs (Fall 2020)
+  * CS245: Logic and Computation (Spring 2018)
+  * CS251: Computer Organization and Design (Winter 2019, Spring 2019)
+
+* __Teaching Assistant at Utah State Univeristy, Logan, UT, USA__ (2014 - 2017)
+  * CS 5050: Advanced Algorithms (Fall 2016)
+
+  * __Lecturer at Postal and Telecommunication Institute of Technology, Hanoi, Vietnam__ (2011 - 2014)
+  * Teach Introduction to AI and Image Processing courses
+
+Industry experience
+======
+* __Web app developer at Sonic Viet, Hanoi, Vietnam__ (2011 - 2014)
+  * Lead a team of 8 developers, Architecure Design
+
+* __Java developer at Calypso Technology, Brighton, UK__ (2009 - 2011)
+  * Work as a Java developer in a team working on products that optimize investment portfolios using generic algorithms
