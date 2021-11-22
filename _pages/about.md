@@ -73,16 +73,10 @@ Tam The Nguyen, **_Hung Viet Pham_**, Phong Minh Vu, Tung Thanh Nguyen
 [_Discriminative Prediction of Enhancers with Word Combinations as Features_](https://hvpham.github.io/files/Enhancer-kse15.pdf)<br/>
 **_Hung Viet Pham_** , Tu Minh Phuong
 
-Education
-======
-* __Ph.D in Software Engineering__, University of Waterloo, Canada, (2018 - now)
-* __M.S. in Evolutionary and Adaptive System (EASy)__, University of Sussex, UK, (2008 - 2009)
-* __B.S. in Computing__, Imperial College, UK, (2004 - 2007)
-
 Research experience
 ======
 * __Research Assistant at University of Waterloo, Waterloo, Canada__ (2018 - now)
-  * Develop testing techniques for Deep-learning libraries
+  * Develop testing techniques for deep learning libraries
 
 * __Research Assistant at Utah State University, Logan, UT, USA__ (2014 - 2017)
   * Develop defect prediction techniques and source code embeddings 
@@ -108,3 +102,9 @@ Industry experience
 
 * __Java developer at Calypso Technology, Brighton, UK__ (2009 - 2011)
   * Work as a Java developer in a team working on products that optimize investment portfolios using generic algorithms
+
+Education
+======
+* __Ph.D in Software Engineering__, University of Waterloo, Canada, (2018 - now)
+* __M.S. in Evolutionary and Adaptive System (EASy)__, University of Sussex, UK, (2008 - 2009)
+* __B.S. in Computing__, Imperial College, UK, (2004 - 2007)
