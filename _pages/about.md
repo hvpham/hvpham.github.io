@@ -37,6 +37,10 @@ Thibaud Lutellier, **_Hung Viet Pham_**, Lawrence Pang, Yitong Li, Moshi Wei, Li
 [_CRADLE: Cross-Backend Validation to Detect and Localize Bugs in Deep Learning Libraries_](https://hvpham.github.io/files/CRADLE-icse19.pdf)<br/>
 **_Hung Viet Pham_**, Thibaud Lutellier, Weizhen Qi, Lin Tan
 
+[__ICSE-18__](https://www.icse2018.org/) (NIER) <br/>
+[_Deep Learning UI Design Patterns of Mobile Apps_](https://hvpham.github.io/files/UI-icse18.pdf)<br/>
+Tam The Nguyen, Phong Minh Vu, **_Hung Viet Pham_**, Tung Thanh Nguyen
+
 [__ICSE-18__](https://www.icse2018.org/) (Poster) <br/>
 [_Recommending Exception Handling Patterns with ExAssist_](https://hvpham.github.io/files/ExAssist-icse18.pdf)<br/>
 Tam The Nguyen, Phong Minh Vu, **_Hung Viet Pham_**, Tung Thanh Nguyen
