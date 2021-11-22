@@ -73,7 +73,7 @@ Tam The Nguyen, **_Hung Viet Pham_**, Phong Minh Vu, Tung Thanh Nguyen
 [_Discriminative Prediction of Enhancers with Word Combinations as Features_](https://hvpham.github.io/files/Enhancer-kse15.pdf)<br/>
 **_Hung Viet Pham_** , Tu Minh Phuong
 
-Work experience
+Research experience
 ======
 * __Research Assistant__ (2018 - now)
   * University of Waterloo, Canada
@@ -83,6 +83,8 @@ Work experience
   * Utah State University, USA
   * Develop defect prediction techniques and source code embeddings 
 
+Work experience
+======
 * __Web app developer__ (2011 - 2014)
   * Sonic Viet, Vietnam
   * Lead a team of 8 developers, Architecure Design
@@ -93,13 +95,20 @@ Work experience
 
 * __Java developer__ (2009 - 2011)
   * Calypso Technology, UK
-  * Teach Introduction to AI and Image Processing courses
-  
-Teaching Assistant
+  * Work as a Java developer in a team working on products that optimize investment portfolios using generic algorithms
+
+Teaching experience
 ======
-* CS251 (Winter 2019, Spring 2019)
-* CS245 (Spring 2018)
-* CS115 (Winter 2018, Fall 2018)
+* __Teaching Assistant, Instructional Apprentice__ (2018 - now)
+  * University of Waterloo, Canada
+  * CS115: Introduction to Computer Science 1 (Winter 2018, Fall 2018, Fall 2019)
+  * CS135: Designing Functional Programs (Fall 2020)
+  * CS245: Logic and Computation (Spring 2018)
+  * CS251: Computer Organization and Design (Winter 2019, Spring 2019)
+
+* __Teaching Assistant__ (2014 - 2017)
+  * Utah State Univeristy, Logan, UT, USA
+  * CS 5050: Advanced Algorithms (Fall 2016)
 
 Education
 ======
