@@ -49,10 +49,6 @@ Tam The Nguyen, Phong Minh Vu, **_Hung Viet Pham_**, Tung Thanh Nguyen
 [_Alpaca-advanced linguistic pattern and concept analysis framework for software engineering corpora_](https://hvpham.github.io/files/Alpaca-icse18.pdf)<br/>
 Phong Minh Vu, Tam The Nguyen, **_Hung Viet Pham_**, Tung Thanh Nguyen
 
-[__ISLS-18__](https://www.isls.org/)<br/>
-_Designing Technology as a Cultural Broker for Young Children: Challenges and Opportunities_<br/>
-Yanghee Kim, Sherry Marx, **_Hung Viet Pham_**, Tung Thanh Nguyen
-
 [__NL4SE-18__](https://nl4se.github.io/)<br/>
 [_Improving the quality of Clone Detection with Conceptual Similarity of Source code_](https://hvpham.github.io/files/Clone-NL4SE.pdf)<br/>
 **_Hung Viet Pham_**, Tam The Nguyen, Phong Minh Vu, Tung Thanh Nguyen
