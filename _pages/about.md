@@ -13,6 +13,10 @@ I am a Ph.D. student working with [Prof. Lin Tan](https://www.cs.purdue.edu/home
 Publications
 ======
   
+[__ICSE-22__](https://conf.researchr.org/home/icse-2022)<br/>
+_EAGLE: Creating Equivalent Graphs to Test Deep Learning Libraries_<br/>
+Jiannan Wang, Thibaud Lutellier, Shangshu Qian, **_Hung Viet Pham_**, and Lin Tan
+
 [__NeurIPS-21__](https://nips.cc/Conferences/2021)<br/>
 [_Are My Deep Learning Systems Fair? An Empirical Study of Fixed-Seed Training_](https://hvpham.github.io/files/VarianceFairness-NIPS21.pdf)<br/>
 Shangshu Qian, **_Hung Viet Pham_**, Thibaud Lutellier, Zeou Hu, Jungwon Kim, Lin Tan, Yaoliang Yu, Jiahao Chen, and Sameena Shah
