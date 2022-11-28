@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student working with [Prof. Lin Tan](https://www.cs.purdue.edu/homes/lintan/) in the Department of Electrical and Computer Engineering at University of Waterloo. My research interests include software testing, program repair, software engineering, and machine learning.
+I am an Assistant Professor at the Department of Electrical Engineering and Computer Science at York University. My work applies software engineering testing techniques to ensure the reliability of machine learning and deep learning systems. My research interests include software testing, program repair, software engineering, and machine learning.
 
 Publications
 ======
-  
+
+[__AAAI-23__](https://aaai.org/Conferences/AAAI-23/aaai23call/)<br/>
+_DisGUIDE: Disagreement-Guided Data-Free Model Extraction_<br/>
+Jonathan Rosenthal, Eric Enouen, **_Hung Viet Pham_**, and Lin Tan
+
+[__ISSTA-22__](https://conf.researchr.org/track/issta-2022/issta-2022-technical-papers)<br/>
+[_DocTer: Documentation-Guided Fuzzing for Testing Deep Learning API Functions_](https://hvpham.github.io/files/DocTer-ISSTA22.pdf)<br/>
+Danning Xie, Yitong Li, Mijung Kim, **_Hung Viet Pham_**, Lin Tan, Xiangyu Zhang, Mike Godfrey
+
 [__ICSE-22__](https://conf.researchr.org/home/icse-2022)<br/>
-_EAGLE: Creating Equivalent Graphs to Test Deep Learning Libraries_<br/>
+[_EAGLE: Creating Equivalent Graphs to Test Deep Learning Libraries_](https://hvpham.github.io/files/EAGLE-ICSE22.pdf)<br/>
 Jiannan Wang, Thibaud Lutellier, Shangshu Qian, **_Hung Viet Pham_**, and Lin Tan
 
 [__NeurIPS-21__](https://nips.cc/Conferences/2021)<br/>
@@ -79,7 +87,7 @@ Tam The Nguyen, **_Hung Viet Pham_**, Phong Minh Vu, Tung Thanh Nguyen
 
 Research experience
 ======
-* __Research Assistant at University of Waterloo, Waterloo, Canada__ (2018 - now)
+* __Research Assistant at University of Waterloo, Waterloo, Canada__ (2018 - 2022)
   * Develop testing techniques for deep learning libraries
 
 * __Research Assistant at Utah State University, Logan, UT, USA__ (2014 - 2017)
@@ -87,7 +95,7 @@ Research experience
 
 Teaching experience
 ======
-* __Teaching Assistant, Instructional Apprentice at University of Waterloo, Waterloo, Canada__ (2018 - now)
+* __Teaching Assistant, Instructional Apprentice at University of Waterloo, Waterloo, Canada__ (2018 - 2022)
   * CS115: Introduction to Computer Science 1 (Winter 2018, Fall 2018, Fall 2019)
   * CS135: Designing Functional Programs (Fall 2020)
   * CS245: Logic and Computation (Spring 2018)
@@ -101,6 +109,9 @@ Teaching experience
 
 Industry experience
 ======
+* __Research Intern at Microsoft Research, Redmond, WA, US__ (2021)
+  * Develop techniques to improve deep learning models
+
 * __Web app developer at Sonic Viet, Hanoi, Vietnam__ (2011 - 2014)
   * Lead a team of 8 developers, Architecure Design
 
@@ -109,6 +120,6 @@ Industry experience
 
 Education
 ======
-* __Ph.D in Software Engineering__, University of Waterloo, Canada, (2018 - now)
+* __Ph.D in Software Engineering__, University of Waterloo, Canada, (2018 - 2022)
 * __M.S. in Evolutionary and Adaptive System (EASy)__, University of Sussex, UK, (2008 - 2009)
 * __B.S. in Computing__, Imperial College, UK, (2004 - 2007)
