@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hung Viet Pham"
 title_separator          : "-"
 name                     : &name "Hung Viet Pham"
-description              : &description "Ph.D. student at University of Waterloo"
+description              : &description "Assistant Professor at York University"
 url                      : https://hvpham.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hvpham.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hung Viet Pham"
   avatar           : "Hung-Photo.jpg"
-  bio              : "Ph.D. student at University of Waterloo, interested in Software Engineering and Machine Learning"
-  location         : "Waterloo, Canada"
+  bio              : "Assistant Professor at York University, interested in Software Engineering and Machine Learning"
+  location         : "Toronto, Canada"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=26p4-74AAAAJ&hl=en"
-  email            : "hvpham@uwaterloo.ca"
+  email            : "hvpham@yorku.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        : "hvpham"
