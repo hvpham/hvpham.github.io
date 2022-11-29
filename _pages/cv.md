@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Hung Pham is an Assistant Professor at the Department of Electrical Engineering and Computer Science at York University since Jan. 2023. He obtained his Ph.D. degree in Computer Science from the University of Waterloo, Canada in Sep. 2022 under the supervision of Prof. Lin Tan (now at Purdue University) and Prof. Yaoliang Yu. His research interests include software testing, program repair, software engineering, and machine learning.
+
+He was a lecturer at the Posts and Telecommunications Institute of Technology, Vietnam (2011-2014). Before that, he received an M.Sc. degree in Evolutionary and Adaptive Systems (EASy) from the University of Sussex, UK, and a B.Eng degree in Computing from the Imperial College, UK.
+
+He had also worked with various industry companies as a research intern at Microsoft Research (2021, worked with Ben Zorn) or as a developer at Calypso Technology (2009-2011).
+
+
 Education
 ======
 * Ph.D in Software Engineering, University of Waterloo, Canada, (2018 - 2022)
