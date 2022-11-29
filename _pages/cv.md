@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Software Engineering, University of Waterloo, Canada, (2018 - now)
+* Ph.D in Software Engineering, University of Waterloo, Canada, (2018 - 2022)
 * M.S. in Evolutionary and Adaptive System (EASy), University of Sussex, UK, (2008 - 2009)
 * B.S. in Computing, Imperial College, UK, (2004 - 2007)
 
 Work experience
 ======
-* Research Assistant (2018 - now)
+* Research Assistant (2018 - 2022)
   * University of Waterloo, Canada
   * Develop testing techniques for Deep-learning libraries
 
