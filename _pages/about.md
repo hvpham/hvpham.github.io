@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hung Pham"
+title: "Hung Viet Pham"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
