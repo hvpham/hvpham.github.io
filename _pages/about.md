@@ -13,8 +13,12 @@ I am an Assistant Professor at the Department of Electrical Engineering and Comp
 Publications
 ======
 
+[__ISSTA-23__](https://2023.issta.org/track/issta-2023-technical-papers)<br/>
+_How Effective are Neural Networks for Fixing Security Vulnerabilities?_<br/>
+Yi Wu, Nan Jiang, **_Hung Viet Pham_**, Thibaud Lutellier, Jordan Davis, Lin Tan, Petr Babkin, and Sameena Shah
+
 [__AAAI-23__](https://aaai.org/Conferences/AAAI-23/aaai23call/)<br/>
-_DisGUIDE: Disagreement-Guided Data-Free Model Extraction_<br/>
+[_DisGUIDE: Disagreement-Guided Data-Free Model Extraction_](https://hvpham.github.io/files/Disguide-aaai23.pdf)<br/>
 Jonathan Rosenthal, Eric Enouen, **_Hung Viet Pham_**, and Lin Tan
 
 [__ISSTA-22__](https://conf.researchr.org/track/issta-2022/issta-2022-technical-papers)<br/>
