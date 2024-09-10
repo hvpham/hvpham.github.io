@@ -12,13 +12,24 @@ I am an Assistant Professor at the Department of Electrical Engineering and Comp
 
 Publications
 ======
+[__TOSEM-24 - Journal__](https://dl.acm.org/journal/tosem)<br/>
+[ History-Driven Fuzzing For Deep Learning Libraries ](https://hvpham.github.io/files/historyFuzz-tosem24.pdf)<br/>
+Nima Shiri Harzevili, Mohammad Mahdi Mohajer, Moshi Wei, **_Hung Viet Pham_**, and Song Wang
+
+[__AIware-24__](https://2024.aiwareconf.org/track/aiware-2024-papers?)<br/>
+[ Effectiveness of ChatGPT for Static Analysis: How Far Are We? ](https://hvpham.github.io/files/static-aiware24.pdf)<br/>
+Mohammad Mahdi Mohajer, Reem Aleithan, Nima Shiri harzevili, Moshi Wei, Alvine Boaye Belle, **_Hung Viet Pham_**, and Song Wang
+
+[__MSR-24 - Mining Challenge__](https://2024.msrconf.org/track/msr-2024-mining-challenge)<br/>
+[ Can ChatGPT Support Developers? An Empirical Evaluation of Large Language Models for Code Generation ](https://hvpham.github.io/files/empirical-msr24.pdf)<br/>
+Kailun Jin, Chung-Yu Wang, **_Hung Viet Pham_**, Hadi Hemmati
 
 [__ISSTA-23__](https://2023.issta.org/track/issta-2023-technical-papers)<br/>
-_How Effective are Neural Networks for Fixing Security Vulnerabilities?_<br/>
+[ How Effective are Neural Networks for Fixing Security Vulnerabilities?]<br/>
 Yi Wu, Nan Jiang, **_Hung Viet Pham_**, Thibaud Lutellier, Jordan Davis, Lin Tan, Petr Babkin, and Sameena Shah
 
 [__AAAI-23__](https://aaai.org/Conferences/AAAI-23/aaai23call/)<br/>
-[_DisGUIDE: Disagreement-Guided Data-Free Model Extraction_](https://hvpham.github.io/files/Disguide-aaai23.pdf)<br/>
+[ DisGUIDE: Disagreement-Guided Data-Free Model Extraction_](https://hvpham.github.io/files/Disguide-aaai23.pdf)<br/>
 Jonathan Rosenthal, Eric Enouen, **_Hung Viet Pham_**, and Lin Tan
 
 [__ISSTA-22__](https://conf.researchr.org/track/issta-2022/issta-2022-technical-papers)<br/>
