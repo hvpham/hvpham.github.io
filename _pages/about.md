@@ -13,7 +13,7 @@ I am an Assistant Professor at the Department of Electrical Engineering and Comp
 Publications
 ======
 [__TOSEM-24 - Journal__](https://dl.acm.org/journal/tosem)<br/>
-[ History-Driven Fuzzing For Deep Learning Libraries ](https://hvpham.github.io/files/historyFuzz-tosem24.pdf)<br/>
+[ History-Driven Fuzzing For Deep Learning Libraries ](https://hvpham.github.io/files/Fuzz-tosem24.pdf)<br/>
 Nima Shiri Harzevili, Mohammad Mahdi Mohajer, Moshi Wei, **_Hung Viet Pham_**, and Song Wang
 
 [__AIware-24__](https://2024.aiwareconf.org/track/aiware-2024-papers?)<br/>
