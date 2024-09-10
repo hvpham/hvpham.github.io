@@ -25,7 +25,7 @@ Mohammad Mahdi Mohajer, Reem Aleithan, Nima Shiri harzevili, Moshi Wei, Alvine B
 Kailun Jin, Chung-Yu Wang, **_Hung Viet Pham_**, Hadi Hemmati
 
 [__ISSTA-23__](https://2023.issta.org/track/issta-2023-technical-papers)<br/>
-[ How Effective are Neural Networks for Fixing Security Vulnerabilities?]<br/>
+[ How Effective are Neural Networks for Fixing Security Vulnerabilities? ](https://hvpham.github.io/files/effective-issta23.pdf)<br/>
 Yi Wu, Nan Jiang, **_Hung Viet Pham_**, Thibaud Lutellier, Jordan Davis, Lin Tan, Petr Babkin, and Sameena Shah
 
 [__AAAI-23__](https://aaai.org/Conferences/AAAI-23/aaai23call/)<br/>
